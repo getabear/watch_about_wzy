@@ -1,0 +1,11 @@
+{
+    "idf.portWin": "COM3",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "disp_driver.h": "c",
+        "lv_demos.h": "c",
+        "ui_helpers.h": "c",
+        "ui.h": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
